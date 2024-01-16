@@ -5,7 +5,12 @@ contributor:
     agent_name: Scott, Samuel Parsons
     gutenberg_agent_id: '56727'
     url: http://www.gutenberg.org/2009/agents/56727
+covers:
+- cover_type: archival
+  image_path: 72551-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72551#The-Visigothic-code-b-Forum-Judicum
 gutenberg_issued: '2023-12-30'
 gutenberg_type: Text
 identifiers:
